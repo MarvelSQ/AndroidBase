@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidBase.iml" filepath="$PROJECT_DIR$/AndroidBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bindinglistadapter/bindinglistadapter.iml" filepath="$PROJECT_DIR$/bindinglistadapter/bindinglistadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileoprate/fileoprate.iml" filepath="$PROJECT_DIR$/fileoprate/fileoprate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>
